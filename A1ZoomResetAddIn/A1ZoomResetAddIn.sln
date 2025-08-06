@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36401.2 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "A1ZoomResetAddIn", "A1ZoomResetAddIn.csproj", "{444D752E-8AAA-4BB8-9EBC-745584E09AC0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{444D752E-8AAA-4BB8-9EBC-745584E09AC0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{444D752E-8AAA-4BB8-9EBC-745584E09AC0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{444D752E-8AAA-4BB8-9EBC-745584E09AC0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{444D752E-8AAA-4BB8-9EBC-745584E09AC0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A987D3F6-5D97-4180-BC91-BD03779570C4}
+	EndGlobalSection
+EndGlobal
